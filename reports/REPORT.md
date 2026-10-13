@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Hoàng Anh Minh - 2A202602566  **Commit:** `c0e729dc7f807ef372e8c4daaefb68203fc56f04`  **Điểm tự động (`make grade`):** 84.0 / 88
+**Họ tên / nhóm:** Hoàng Anh Minh - 2A202602566  **Commit:** `aec5e80`  **Điểm tự động (`make grade`):** 84.0 / 88
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
